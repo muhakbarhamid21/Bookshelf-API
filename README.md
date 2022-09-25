@@ -1,6 +1,6 @@
 # Bookshelf API
 
-> Belajar Membuat Aplikasi Back-End untuk Pemula dengan Google Cloud/Proyek Bookshelf API
+> Google Clour Professional/Belajar Membuat Aplikasi Back-End untuk Pemula dengan Google Cloud/Proyek Bookshelf API
 
 ## Kriteria Penilaian
 
