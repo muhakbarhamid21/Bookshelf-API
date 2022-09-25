@@ -1,6 +1,6 @@
 # Bookshelf API
 
-> Belajar Membuat Aplikasi Back-End untuk Pemula dengan Google Cloud/Proyek Bookshelf API/Submission: Proyek Akhir Submission dan Review
+> Belajar Membuat Aplikasi Back-End untuk Pemula dengan Google Cloud/Proyek Bookshelf API
 
 ## Kriteria Penilaian
 
